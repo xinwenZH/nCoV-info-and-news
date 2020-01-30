@@ -1,4 +1,4 @@
-We are "Caring for Wuhan (CFW)”, a group of Chinese volunteers first gathered from douban.com (a Chinese social platform), aiming to help those non-Chinese in Wuhan/Hubei/China right now. 
+We are "Caring for Wuhan" (CFW), a group of Chinese volunteers first gathered from douban.com (a Chinese social platform), aiming to help those non-Chinese in Wuhan/Hubei/China right now. 
 
 We collect & translate latest and reliable information and news about nCoV from Chinese into English. We also have supports from many other volunteer groups, including the one who first put together this helpful catalog of nCoV (in Chinese) which is our major source.
 
