@@ -9,7 +9,9 @@ We'd appreciate if you can share this doc to help more people. Thank you.
 The full contents table is only available in computer browsers, if you are using mobile devices, please refer to the below simplified version. Or look through titles in the file, all titles are in bold and large characters.
 
 Part One
- General Information 
+
+General Information
+ 
 I. For people in Wuhan/Hubei/China who need treatment
 nCOV Related Popular Science Articles (in updating)
 https://shimo.im/docs/gVcJKHChhwvx8CRK/
